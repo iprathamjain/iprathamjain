@@ -1,50 +1,27 @@
-## 👋 &nbsp;Hey there! I'm Pratham
-### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently pursuing B.Tech in Computer Science and Engineering at Jaypee Institute of Information Technology, Noida.\
-🌱 &nbsp;I'm on track for learning more about Web Development.\
-✍️ &nbsp;In my free time, I like to solve competitive programming problems.\
-✉️ &nbsp;You can shoot me an email at prathamjainyt@gmail.com! I'll try to respond as soon as I can.
+<h1 align="center">Hi 👋, I'm PRATHAM JAIN</h1>
+<h3 align="center">A Final year student and passionate learner.</h3>
 
-<img height="160em" align="right" src="https://github.com/iprathamjain/iprathamjain/blob/main/Programmer.png">
+- 🔭 I like to explore new technologies and develop software solutions. **.**
 
-### 🛠 &nbsp;Tech Stack
+- 🌱 I’m currently learning **Web Development**
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=#A8B9CC)
-&nbsp;![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=#3776AB)\
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery&logoColor=0769ad)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=light-blue)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 👯 I'm currently pursuing BE in Computer Science at Jaypee Institute, Noida. **.**
 
-### ⚙️ &nbsp;GitHub Analytics
+- 🤝 In my free time, I like to solve competitive programming problems. **.**
 
-<p align="center">
-<a href="https://github.com/iprathamjain">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iprathamjain&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iprathamjain&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+- 👨‍💻 All of my projects are available at [www.prathamjain.com.](www.prathamjain.com.)
+
+- 📫 Reach me at **prathamjainyt@gmail.com.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/iprathamjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iprathamjain" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/iprathamjain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iprathamjain" height="30" width="40" /></a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p>
-<a href="https://www.linkedin.com/in/iprathamjain/"><img src="https://img.shields.io/badge/-Manuj%20Grover-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:iprathamjain@gmail.com"><img src="https://img.shields.io/badge/-manujgrover71@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprathamjain&show_icons=true&locale=en&layout=compact" alt="iprathamjain" /></p>
 
-
-
-
-<!---
-iprathamjain/iprathamjain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iprathamjain&show_icons=true&locale=en" alt="iprathamjain" /></p>
