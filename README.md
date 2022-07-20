@@ -6,7 +6,7 @@
 ✍️ &nbsp;In my free time, I like to solve competitive programming problems.\
 ✉️ &nbsp;You can shoot me an email at prathamjainyt@gmail.com! I'll try to respond as soon as I can.
 
-<img height="160em" align="right" src="https://github.com/iprathamjain/iprathamjain/blob/main/image_github.png">
+<img height="160em" align="right" src="https://github.com/iprathamjain/iprathamjain/blob/main/Programmer.png">
 
 ### 🛠 &nbsp;Tech Stack
 
