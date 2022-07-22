@@ -11,7 +11,7 @@
 
 - 🤝 In my free time, I like to solve competitive programming problems. **.**
 
-- 👨‍💻 All of my projects are available at [www.prathamjain.com.](www.prathamjain.com.)
+- 👨‍💻 All of my projects are available at [iprathamjain.vercel.app](https://iprathamjain.vercel.app)
 
 - 📫 Reach me at **prathamjainyt@gmail.com.**
 
