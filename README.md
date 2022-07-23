@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👯 I'm currently pursuing BE in Computer Science at Jaypee Institute, Noida. **.**
+- 👯 I'm currently pursuing B.Tech. in Computer Science at Jaypee Institute, Noida. **.**
 
 - 🤝 In my free time, I like to solve competitive programming problems. **.**
 
