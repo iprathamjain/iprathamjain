@@ -5,9 +5,7 @@
 
 - 🔭 I like to explore new technologies and develop software solutions. **.**
 
-- 🌱 I’m currently learning **Web Development.**
-
-- 👯 I'm currently pursuing B.Tech. in Computer Science at Jaypee Institute, Noida **.**
+- 🌱 I’m currently working as **Software Engineer.**
 
 - 🤝 In my free time, I like to solve competitive programming problems **.**
 
